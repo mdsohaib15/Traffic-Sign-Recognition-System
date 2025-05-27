@@ -28,7 +28,7 @@ model, classes = load_model_and_classes()
 
 # App UI
 st.title("🚦 Traffic Sign Recognition System")
-st.markdown("Upload a traffic sign image, and the model will predict its class.")
+st.markdown("Upload a traffic sign image, and the model will predict its class.")   
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
@@ -47,3 +47,6 @@ if uploaded_file is not None:
     pred_label = classes[pred_class]
 
     st.success(f"### 🧠 Predicted Sign: {pred_label}")
+
+
+st.markdown("Developed by: Muhammad Sohaib")

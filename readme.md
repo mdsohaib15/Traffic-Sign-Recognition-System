@@ -43,7 +43,7 @@ Traffic sign recognition is a crucial feature in autonomous driving systems. Rec
 ## 👨‍💻 Author
 **Sohaib**  
 AI Student & Deep Learning Enthusiast  
-GitHub: [mdsohaib15](https://github.com/mdsohaib15)
+
 
 
 
