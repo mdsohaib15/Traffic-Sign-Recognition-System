@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Recognition Using CNN
+# 🚦 **Traffic Sign Recognition Using CNN**
 
 ## 🧠 Objectives
 - Develop a CNN-based model to recognize and classify traffic signs from images.
